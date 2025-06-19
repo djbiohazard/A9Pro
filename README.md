@@ -46,12 +46,15 @@ The [datasheet](Datasheets/MCU/AB5682B.pdf) is included in this repo.
 - **Package**: QFN3×3-20L
 - **Lines**: 6 pins on FPC
 
+[Datasheet](Datasheets/TP/CST08C-Hynitron.pdf) for the TP controller.
+
 ## PMIC
 
 - **Vendor**: LowPowerSemi (LPS)
 - **Model**: LP7812C EK1
 - **Function**: TWS charging case PMIC with two-way communication
-- **Note**: Closely related to LP7815 (datasheet available)
+
+I've found the [datasheet](Datasheets/PMIC/f54fe7033996903f5639f41d20033a11.pdf), a [pinout](Datasheets/PMIC/133637571110098771.jpg), and a [brochure](Datasheets/PMIC/a513f1c313a75f147b4eed0bbb0ec916.pdf)
 
 ## PCB
 
