@@ -46,6 +46,8 @@ Based on [kagaimiq/bluetrum-tools](https://github.com/kagaimiq/bluetrum-tools):
 - **Function**: TWS charging case PMIC with two-way communication
 - **Note**: Closely related to LP7815 (datasheet available)
 
+## PCB
+
 The PCB is marked ST8_YX_Y15仓_5682_V1.0 2024_08_07 for the black unit.
 
 It has a bunch of test pads labeled:
