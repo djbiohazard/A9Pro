@@ -24,6 +24,8 @@ The main IC is marked with the AB logo, so the chip is confirmed to be an AB5682
 This is a pretty interesting MCU since it's a 32-bit 140MHz RISC-V processor with integrated NOR flash (16Mbit).
 It's designed with smart wearables in mind. 
 
+The [datasheet](Datasheets/MCU/AB5682B.pdf) is included in this repo. 
+
 ## LCD Display
 
 ### General Info
