@@ -16,7 +16,7 @@ Based on [kagaimiq/bluetrum-tools](https://github.com/kagaimiq/bluetrum-tools):
   - `E` → Codename `EAGR` → **AB568x family**
   - `T5` → Unknown
   - `8` → Unknown
-  - `1632` → Hexadecimal → **5682**
+  - `1632` (Hexadecimal) → **5682** (Decimal)
   - `B` → Variant
 
 The main IC is marked with the AB logo, so the chip is confirmed to be an AB5682B.
