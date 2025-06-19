@@ -19,6 +19,11 @@ Based on [kagaimiq/bluetrum-tools](https://github.com/kagaimiq/bluetrum-tools):
   - `1632` → Hexadecimal → **5682**
   - `B` → Variant
 
+The main IC is marked with the AB logo, so the chip is confirmed to be an AB5682B.
+
+This is a pretty interesting MCU since it's a 32-bit 140MHz RISC-V processor with integrated NOR flash (16Mbit).
+It's designed with smart wearables in mind. 
+
 ## LCD Display
 
 ### General Info
