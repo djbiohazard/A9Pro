@@ -24,7 +24,7 @@ The main IC is marked with the AB logo, so the chip is confirmed to be an AB5682
 This is a pretty interesting MCU since it's a 32-bit 140MHz RISC-V processor with integrated NOR flash (16Mbit).
 It's designed with smart wearables in mind. 
 
-The [datasheet](Datasheets/MCU/AB5682B.pdf) is included in this repo. 
+The [datasheet](Datasheets/MCU/AB5682B.pdf) is included in this repo.  (English)
 
 ## LCD Display
 
@@ -46,7 +46,7 @@ The [datasheet](Datasheets/MCU/AB5682B.pdf) is included in this repo.
 - **Package**: QFN3×3-20L
 - **Lines**: 6 pins on FPC
 
-[Datasheet](Datasheets/TP/CST08C-Hynitron.pdf) for the TP controller.
+[Datasheet](Datasheets/TP/CST08C-Hynitron.pdf) for the TP controller. (Chinese)
 
 ## PMIC
 
@@ -54,7 +54,7 @@ The [datasheet](Datasheets/MCU/AB5682B.pdf) is included in this repo.
 - **Model**: LP7812C EK1
 - **Function**: TWS charging case PMIC with two-way communication
 
-I've found the [datasheet](Datasheets/PMIC/f54fe7033996903f5639f41d20033a11.pdf), a [pinout](Datasheets/PMIC/133637571110098771.jpg), and a [brochure](Datasheets/PMIC/a513f1c313a75f147b4eed0bbb0ec916.pdf)
+I've found the [datasheet](Datasheets/PMIC/f54fe7033996903f5639f41d20033a11.pdf), a [pinout](Datasheets/PMIC/133637571110098771.jpg), and a [brochure](Datasheets/PMIC/a513f1c313a75f147b4eed0bbb0ec916.pdf) (Chinese)
 
 ## PCB
 
