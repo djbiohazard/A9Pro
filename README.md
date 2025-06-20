@@ -65,22 +65,22 @@ It has a bunch of test pads labeled:
 
 | Label  | Description        |
 |--------|--------------------|
-| DM     | USB D–             |
-| PINT   | Possibly INT/TCH   |
+| DM     ||
+| PINT   ||
 | G      | GND                |
-| UP     | Unknown            |
-| 3V3    | 3.3V Power         |
-| 5V     | 5V Power           |
-| PRST   | Possibly Reset     |
-| PSCL   | I²C Clock?         |
-| PSDA   | I²C Data?          |
-| SCL    | I²C or SPI Clock   |
-| RS     | Reset / Register Select |
-| SDA    | I²C or SPI MOSI    |
+| UP     ||
+| 3V3    ||
+| 5V     ||
+| PRST   ||
+| PSCL   ||
+| PSDA   ||
+| SCL    ||
+| RS     ||
+| SDA    ||
 
 #### Top Side
 
 | Label  | Description        |
 |--------|--------------------|
-| CS     | Chip Select        |
+| CS     ||
 | RST    | Reset              |
